@@ -4,5 +4,6 @@ metadata:
   name: mongodb
   labels:
     app: mongodb
+spec:
   
 
